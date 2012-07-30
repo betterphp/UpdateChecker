@@ -1,0 +1,3 @@
+name: UpdateCheckerPlugin
+version: 0.10
+main: uk.co.jacekk.bukkit.updatechecker.UpdateCheckerPlugin
